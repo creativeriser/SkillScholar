@@ -48,66 +48,64 @@ SkillScholar/
 │── config/             # Configuration & Environment Variables  
 │── utils/              # Utility Functions  
 │── docs/               # Documentation & Research Reports  
-│── README.md           # Project Documentation
+│── README.md           # Project Documentation  
+```
 
+---
 
-🔧 Installation & Setup
-Prerequisites
-Node.js & npm installed
-MongoDB Atlas account
-Firebase Project Setup
-Redis Server (optional, for caching)
-Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/SkillScholar.git
+## 🔧 Installation & Setup  
+
+### Prerequisites  
+- **Node.js & npm** installed  
+- **MongoDB Atlas** account  
+- **Firebase Project** setup  
+- **Redis Server** (optional, for caching)  
+
+### Clone the Repository  
+```bash
+git clone https://github.com/creativeriser/SkillScholar.git
 cd SkillScholar
-Backend Setup
-bash
-Copy
-Edit
+```
+
+### Backend Setup  
+```bash
 cd backend
 npm install
 node server.js
-Frontend Setup
-bash
-Copy
-Edit
+```
+
+### Frontend Setup  
+```bash
 cd frontend
 npm install
 npm start
-📈 Future Enhancements
-🔹 AI-Powered Essay Review for Scholarship Applications
-🔹 Blockchain-Based Scholarship Verification
-🔹 Chatbot for Instant Queries
-🔹 Multi-Language Support
+```
 
-🤝 Contributing
-We welcome contributions! To contribute:
+---
 
-Fork the repository
-Create a new branch (feature-xyz)
-Commit your changes (git commit -m "Added feature xyz")
-Push to your branch (git push origin feature-xyz)
-Open a Pull Request
-📜 License
-This project is licensed under the MIT License.
+## 📈 Future Enhancements  
+🔹 AI-Powered Essay Review for Scholarship Applications  
+🔹 Blockchain-Based Scholarship Verification  
+🔹 Chatbot for Instant Queries  
+🔹 Multi-Language Support  
 
-📧 Contact & Support
-For inquiries, bug reports, or collaboration:
-📩 vikrant.singh.chunar@gmail.com
+---
 
+## 🤝 Contributing  
+We welcome contributions! To contribute:  
+1. Fork the repository  
+2. Create a new branch (`feature-xyz`)  
+3. Commit your changes (`git commit -m "Added feature xyz"`)  
+4. Push to your branch (`git push origin feature-xyz`)  
+5. Open a Pull Request  
 
+---
 
-This **GitHub-styled** README includes:  
-- **Badges** for license, contributors, and issues  
-- **Proper markdown formatting** (headers, lists, code blocks)  
-- **Installation instructions** with clear steps  
-- **Future enhancements** to show project growth  
-- **Contribution guidelines** for open-source collaboration  
+## 📜 License  
+This project is licensed under the **MIT License**.  
 
-Let me know if you want any modifications! 🚀
+---
 
-
-
+## 📧 Contact & Support  
+For inquiries, bug reports, or collaboration:  
+📩 **vikrant.singh.chunar@gmail.com**  
