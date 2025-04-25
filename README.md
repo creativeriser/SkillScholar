@@ -1,8 +1,8 @@
 # 🎓 SkillScholar – AI-Powered Scholarship Discovery Platform  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![Contributors](https://img.shields.io/github/contributors/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/graphs/contributors)  
-[![Issues](https://img.shields.io/github/issues/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/issues)  
+<!--[![Contributors](https://img.shields.io/github/contributors/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/graphs/contributors) --> 
+<!--[![Issues](https://img.shields.io/github/issues/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/issues)  -->
 
 ## 📌 About SkillScholar  
 SkillScholar is an **AI-driven scholarship discovery platform** that helps students find and apply for the best scholarships based on **merit, financial needs, location, and other criteria**.  
