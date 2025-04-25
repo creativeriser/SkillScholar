@@ -1,0 +1,16 @@
+{
+  "name": "skillscholar",
+  "version": "1.0.0",
+  "description": "A scholarship discovery platform for students",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "vite": "^5.0.0"
+  }
+}
