@@ -118,5 +118,5 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact & Support  
 For inquiries, bug reports, or collaboration:  
-📩 **vikrant.singh.chunar@gmail.com**  <br>
+📩 **vikrant.singh.chunar@gmail.com**  <br>&nbsp;
      **shabby31012006@gmail.com**
