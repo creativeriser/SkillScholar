@@ -119,4 +119,4 @@ This project is licensed under the **MIT License**.
 ## 📧 Contact & Support  
 For inquiries, bug reports, or collaboration:  
 📩 **vikrant.singh.chunar@gmail.com** 
-📩 **shabby31012006@gmail.com**
+   **shabby31012006@gmail.com**
