@@ -5,10 +5,10 @@
 <!--[![Issues](https://img.shields.io/github/issues/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/issues)  -->
 
 ## 📌 About SkillScholar  
-SkillScholar is an **AI-driven scholarship discovery platform** that helps students find and apply for the best scholarships based on **merit, financial needs, location, and other criteria**.  
+SkillScholar is an **Scholarship discovery platform** that helps students find and apply for the best scholarships based on **merit, financial needs, location, and other criteria**.  
 
 ### ✨ Key Features  
-✅ **AI-Based Personalized Recommendations** – Scholarships tailored to user profiles  
+<!-- ✅ **AI-Based Personalized Recommendations** – Scholarships tailored to user profiles  --> 
 ✅ **Advanced Search & Filtering** – Find scholarships by eligibility, location, and funding type  
 ✅ **Real-Time Notifications** – Stay updated with application deadlines and status changes  
 ✅ **User Dashboard** – Track saved scholarships and submitted applications  
