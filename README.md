@@ -40,15 +40,25 @@ SkillScholar is an **AI-driven scholarship discovery platform** that helps stude
 ## 📂 Project Structure  
 ```bash
 SkillScholar/
-│── frontend/           # Web and Mobile UI  
-│── backend/            # Express.js Backend APIs  
-│── models/             # Database Schemas (MongoDB)  
-│── controllers/        # Business Logic & API Controllers  
-│── routes/             # API Endpoints  
-│── config/             # Configuration & Environment Variables  
-│── utils/              # Utility Functions  
-│── docs/               # Documentation & Research Reports  
-│── README.md           # Project Documentation  
+│
+├── css/                         # Stylesheets (Uploaded recently)
+├── dist/                        # Compiled or distribution files
+├── js/                          # JavaScript files
+│
+├── .gitignore                   # Git ignore rules
+├── LICENSE                      # Project license file (MIT)
+├── README.md                    # Project documentation
+│
+├── about.html                   # About page
+├── contact.html                 # Contact page
+├── index.html                   # Main homepage
+├── kvpy-application.html        # KVPY-specific application page
+├── scholarships.html            # Scholarships listing page
+│
+├── package.json                 # Project metadata & dependencies
+├── package-lock.json            # Exact versions of dependencies
+├── vite.config.js               # Vite configuration file
+
 ```
 
 ---
